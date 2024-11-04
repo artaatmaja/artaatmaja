@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a passionate Web Developer with 7 years of experience specializing in frontend development. I love crafting smooth, responsive, and engaging user interfaces that put a smile on people’s faces. I’m constantly exploring new technologies and best practices to keep my work sharp and future-ready. Whether it’s optimizing for performance, diving into the latest frameworks, or simplifying complex interfaces, I’m all about making the web better for everyone. Feel free to check out my repositories, and don’t hesitate to reach out if you want to collaborate on a project or just chat tech! 🚀
+I'm a passionate Web Developer with 7 years of experience specializing in frontend development. I love crafting smooth, responsive, and engaging user interfaces that put a smile on people’s faces. I’m constantly exploring new technologies and best practices to keep my work sharp and future-ready. Whether it’s optimizing for performance, diving into the latest frameworks, or simplifying complex interfaces, I’m all about making the web better for everyone. Feel free to check out my repositories, and don’t hesitate to reach out if you want to collaborate on a project or just chat! 🚀
 
 * 🌍  I'm based in Bali, Indonesia
 * ✉️  You can contact me at [arta.atmaja@gmail.com](mailto:arta.atmaja@gmail.com)
@@ -26,7 +26,5 @@ I'm a passionate Web Developer with 7 years of experience specializing in fronte
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/artaatmaja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=artaatmaja&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/artaatmaja"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=artaatmaja&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/artaatmaja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artaatmaja&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
